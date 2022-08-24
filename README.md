@@ -1,9 +1,11 @@
 # Unity_Project
+
 # Descrizione del Progetto
+
 * Genere
 Blackened è un videogioco stealth con visuale in prima persona. Il giocatore deve attraversare diversi livelli uno dopo l’altro senza far suonare l’allarme della struttura dove è ambientato questo gioco. Inoltre, il giocatore dovrà affrontare delle guardie che gli impediranno di avanzare, provando ad ucciderlo o facendo suonare l’allarme. Il giocatore è un hacker, quindi può hackerare diversi dispostivi tecnologici per superare gli ostacoli che si troverà davanti. Blackened ha anche una forte componente action-fps perché il player può portare con sé diverse armi che gli permettono di giocare con molti approcci diversi. 
 
-*Storia e Ambientazione 
+* Storia e Ambientazione 
 Ispirato dai fatti della serie tv MR ROBOT, BLACKENED* racconta la storia di un attivista che ha come obiettivo quello di portare alla luce tutti i crimini ambientali commessi dalla Ecorp, la multinazionale che detiene ormai il monopolio su qualsiasi bene prodotto. Per raggiunge tale obiettivo il protagonista dovrà: 
 
 Rubare un primo pacchetto di dati sensibili contenuti nella server room. 
@@ -12,7 +14,7 @@ Rubare un secondo pacchetto di dati contenuto all’interno del computer del cap
 
 Ovviamente nel portare a termine la sua missione il protagonista dovrà passare da un piano all’altro dell’edifico evitando di essere avvistato dalle guardie che saranno l’ostacolo primario del gioco. Di volta in volta sarà necessario anche forzare dei sistemi di sicurezza con il fine di raggiungere aree protette. Sta al giocatore decidere se giocare in modalità “Coscienza pulita” evitando inutili spargimenti di sangue oppure se uccidere le guardie, diventando così un assassino proprio come il capo della Ecorp. 
 
-#Progettazione ed Implementazione 
+# Progettazione ed Implementazione 
 
 * Player
 Il player possiede diversi script, grazie al quale può compiere diverse azioni all’interno di ciascuna scena.
